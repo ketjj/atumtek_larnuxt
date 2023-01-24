@@ -22,5 +22,11 @@
         "sass-loader": "^8.0.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.13.6",
+        "@nuxtjs/proxy": "^2.1.0",
+        "nuxt": "^3.0.0",
+        "nuxt-laravel": "^4.2.9"
     }
 }
